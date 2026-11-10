@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.local
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+android/
+src-tauri/gen/
+keystore.properties
+*.jks
+*.keystore
+coverage/
